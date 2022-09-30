@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://4dministrat0r.github.io/sitemap.xml
