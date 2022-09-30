@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Administrat0r                          # the main title
 
-tagline: be a red teaemer   # it will display as the sub-title
+tagline: be a red teamer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -84,7 +84,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'C:\4dministrat0r\4dministrat0r.github.io\avatar\sexycat.jpg'
+avatar: 'C:/4dministrat0r/4dministrat0r.github.io/avatar/sexycat.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
